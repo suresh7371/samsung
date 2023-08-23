@@ -1,7 +1,4 @@
 now a days the mobile plays key role in human lifes
 if a smart mobile is there means the world is in our hands
-<<<<<<< HEAD
 the second mobile using was vivo
-=======
 new mobile to buy
->>>>>>> b964a7f6525ba6d92ef5a386631ceaaca63f85f6
